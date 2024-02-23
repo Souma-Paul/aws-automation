@@ -1,0 +1,8 @@
+#Build files
+*.pyc
+
+#Editor and IDE
+.vscode/
+
+#Environment directories
+*+env/
